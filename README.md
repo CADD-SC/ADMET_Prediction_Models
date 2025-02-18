@@ -12,7 +12,8 @@
 ## Clone the repository
 #### For Windows
  Install Git LFS (if you haven't already)
-``` git lfs install
+```
+git lfs install
 ```
 
 
