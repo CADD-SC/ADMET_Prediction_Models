@@ -11,12 +11,22 @@
 
 ## Clone the repository
 #### For Windows
- Install Git LFS (if you haven't already)
+ 1) Install Git LFS (if you haven't already)
 ```
 git lfs install
 ```
-
-
+2) Clone the repository:
+```
+git clone https://github.com/CADD-SC/ADMET_Prediction_Models.git
+```
+3) Navigate to the cloned repository:
+```
+cd ADMET_Prediction_Models
+```
+4) Fetch the LFS files:
+```
+git lfs pull
+```
 
 
 ## Dataset
