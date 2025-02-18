@@ -27,7 +27,23 @@ cd ADMET_Prediction_Models
 ```
 git lfs pull
 ```
+#### For Linux
+```
+# Install Git LFS (if not already installed)
+sudo apt-get install git-lfs
 
+# Initialize Git LFS
+git lfs install
+
+# Clone the repository
+git clone https://github.com/CADD-SC/ADMET_Prediction_Models.git
+
+# Navigate to the cloned repository
+cd ADMET_Prediction_Models
+
+# Fetch the LFS files
+git lfs pull
+```
 
 ## Dataset
  All dataset used in manuscript are contained in data/ folder
