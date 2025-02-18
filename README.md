@@ -9,6 +9,14 @@
  * pandas
  * dgllife
 
+## Clone the repository
+#### For Windows
+ Install Git LFS (if you haven't already)
+``` git lfs install
+```
+
+
+
 
 ## Dataset
  All dataset used in manuscript are contained in data/ folder
