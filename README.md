@@ -45,7 +45,7 @@ cd ADMET_Prediction_Models
 # Fetch the LFS files
 git lfs pull
 ```
-#### Note: if you still face any problem, downlaod the models files (.pkl) individually and place in the working directory 
+#### Note: If you encounter any issues, you can download the model files (.pkl) individually and place them in the working directory in folder named (models). 
 ## Dataset
  All dataset used in manuscript are contained in data/ folder
  At each folder, train, test, and valid (external set) datasets are saved as separated files.
