@@ -16,7 +16,6 @@
 git lfs install
 
 # Clone the repository:
-<a href="git clone https://github.com/CADD-SC/ADMET_Prediction_Models.git"></a>
 
 # Navigate to the cloned repository:
 cd ADMET_Prediction_Models
@@ -26,7 +25,7 @@ git lfs pull
 
 ## Alternative to download the model files
 In case of any trouble, dowloading models files from following google dive link:
-https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing
+(https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing)
 ```
 #### For Linux
 ```
