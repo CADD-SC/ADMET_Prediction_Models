@@ -24,10 +24,6 @@ cd ADMET_Prediction_Models
 git lfs pull
 
 ```
-## Alternative to download the model files
-
-In case of any trouble, dowloading models files from following google dive link:
-<a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a>
 
 #### For Linux
 ```
@@ -46,7 +42,8 @@ cd ADMET_Prediction_Models
 # Fetch the LFS files
 git lfs pull
 ```
-#### Note: If you encounter any issues, you can download the model files (.pkl) individually and place them in the working directory in folder named (models). 
+#### Note: If you encounter any issues, you can download the model files (.pkl) from the given Google Drive Link" <a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a> ". 
+
 ## Dataset
  All dataset used in manuscript are contained in data/ folder
  At each folder, train, test, and valid (external set) datasets are saved as separated files.
