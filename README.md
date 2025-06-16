@@ -24,9 +24,10 @@ cd ADMET_Prediction_Models
 git lfs pull
 
 ```
-##Alternative to download the model files
+## Alternative to download the model files
+
 In case of any trouble, dowloading models files from following google dive link:
-<a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">View Google Drive Folder</a>
+<a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a>
 
 #### For Linux
 ```
