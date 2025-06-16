@@ -25,7 +25,7 @@ git lfs pull
 
 ##Alternative to download the model files
 In case of any trouble, dowloading models files from following google dive link:
-[View Google Drive Folder](https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing)
+<a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">View Google Drive Folder</a>
 ```
 #### For Linux
 ```
