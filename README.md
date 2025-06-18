@@ -47,7 +47,8 @@ pip install gdown
 gdown --folder 1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U
 
 ```
-#### Note: If you encounter any issues, you can download the model files (.pkl) from the given Google Drive Link" <a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a> ". 
+#### Note: If you encounter any issues, you can download the model files (.pkl) from the given Google Drive Link" <a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a> 
+#### Scaler (.pkl) file is also availble at "<a href="https://drive.google.com/drive/folders/1mbBZt7pEfGu7iqt7WCq5wYqiwoAxpKpB?usp=sharing" target="_blank">Download Scaler.pkl from Google Drive</a>. 
 
 ## Dataset
  All dataset used in manuscript are contained in data/ folder
