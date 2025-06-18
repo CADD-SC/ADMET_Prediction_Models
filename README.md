@@ -48,7 +48,7 @@ gdown --folder 1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U
 
 ```
 #### Note: 
-#### If you encounter any issues, you can download the model files (.pkl) from the given Google Drive Link" <a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a> 
+#### In case of any technical difficulties, you may access and download the model files (.pkl) via the Google Drive link provided" <a href="https://drive.google.com/drive/folders/1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U?usp=sharing" target="_blank">Download Models from Google Drive</a> 
 #### Scaler (.pkl) file is also availble at "<a href="https://drive.google.com/drive/folders/1mbBZt7pEfGu7iqt7WCq5wYqiwoAxpKpB?usp=sharing" target="_blank">Download Scaler.pkl from Google Drive</a>. 
 #### For linux user can use following commands to get models and scaler.pkl files
 pip install gdown  
