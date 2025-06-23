@@ -53,8 +53,8 @@ gdown --folder 1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U
 #### For linux user can use following commands to get models and scaler.pkl files:
 ```
 pip install gdown  
-gdown --folder 1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U
-gdown --folder 1mbBZt7pEfGu7iqt7WCq5wYqiwoAxpKpB
+gdown --folder 1AYW-4HXgnU89_BQU-_-rWV_apps-Gp9U   #For downloading models (.pkl) files
+gdown --folder 1mbBZt7pEfGu7iqt7WCq5wYqiwoAxpKpB   #for downloading scaler/new_scaler.pkl file
 ```
 
 ## Dataset
